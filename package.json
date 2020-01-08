@@ -1,6 +1,6 @@
 {
   "name": "kb-resume",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Resume for Kim Branzell",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
     "inquirer": "^7.0.3"
   },
   "bin": {
-    "kim-branzell-resume": "./index.js"
+    "kb-resume": "./index.js"
   }
 }
