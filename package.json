@@ -1,0 +1,22 @@
+{
+  "name": "kb-resume",
+  "version": "1.0.0",
+  "description": "Resume for Kim Branzell",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KimBranzell/KimBranzell-Resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Kim Branzell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KimBranzell/KimBranzell-Resume/issues"
+  },
+  "homepage": "https://github.com/KimBranzell/KimBranzell-Resume#readme"
+}
