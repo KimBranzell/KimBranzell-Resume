@@ -1,0 +1,54 @@
+{
+  "Education 📚": {
+    "Malmö University": [
+      {
+        "degree": "Bachelor of Science (BS) \n Leadership and Organization",
+        "year": "2012-2014",
+        "description": "Courses in projectual knowledge and strategical, sustainable and organizational leadership. My bachelor thesis covers the research development of transformational leadership during the years 1990-2013. Swedish version can be downloaded here: http://muep.mah.se/handle/2043/16928"
+      },
+      {
+        "degree": "Bachelor of Science (BS) \n Project Management within Publishing",
+        "year": "2011-2014",
+        "description": "Courses in projectual knowledge and publishing skills. Some courses in law and web design were included as well."
+      }
+    ],
+    "John Bauergymnasiet": [
+      {
+        "degree": "Upper secondary school exam \n Information Technology",
+        "year": "2004-2007",
+        "description": "Member of the student board. Also a member of the prom committee. DJ and founder of the school radio (which started as a school project)."
+      }
+    ]
+  },
+
+  "Experience 🧪": {
+    "KAN": [
+      {
+        "title": "Front-end Developer",
+        "year": "2018-",
+        "description": "Responsible for creating websites and web apps. \n Working with brands such as: Subaru, Midroc, Isuzu, ZetaDisplay, Region Skåne, etc."
+      }
+    ],
+    "Nocnoc": [
+      {
+        "title": "Front-end Developer / Graphic Designer",
+        "year": "2014-2018",
+        "description": "Responsible for creating websites, web apps and print-ready material. \n Working with brands such as: The Mauler, Ninjas in Pyjamas, FC Rosengård, The Swedish Football Association, Sigma Group, Mikz, Zlatan Unplugged, Messi 10, Mikkey Dee, The Swedish Athletic Association, Fingerprint Cards, Bona and Gothia Cup China"
+      }
+    ]
+  },
+
+  "Contact 📇": ["hej@jagheter.kim", "+46 760 163 733"],
+  "Tech Stack 💻": [
+    "PHP (Wordpress, Twig, Blade, etc.)",
+    "S(C)(A)SS",
+    "Webpack",
+    "Grunt",
+    "Gulp",
+    "The Adobe Suite",
+    "jQuery",
+    "Javascript",
+    "React",
+    "Vue"
+  ]
+}

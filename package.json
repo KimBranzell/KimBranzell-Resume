@@ -6,10 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/KimBranzell/KimBranzell-Resume.git"
-  },
+  "repository": "git+https://github.com/KimBranzell/KimBranzell-Resume.git",
   "keywords": [
     "resume"
   ],
@@ -18,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/KimBranzell/KimBranzell-Resume/issues"
   },
-  "homepage": "https://github.com/KimBranzell/KimBranzell-Resume#readme"
+  "homepage": "https://github.com/KimBranzell/KimBranzell-Resume#readme",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "inquirer": "^7.0.3"
+  },
+  "bin": {
+    "kim-branzell-resume": "./index.js"
+  }
 }
