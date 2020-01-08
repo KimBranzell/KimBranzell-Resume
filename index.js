@@ -33,7 +33,7 @@ function handleResume() {
 
       const options = data[`${answer.resumeOptions}`];
       if (options) {
-        if (answer.resumeOptions == "Education") {
+        if (answer.resumeOptions == "Education 📚") {
           var schoolName;
           var schoolArray;
           var schoolIndex;
@@ -64,7 +64,7 @@ function handleResume() {
             console.log(" ");
           }
           console.log(response(new inquirer.Separator()));
-        } else if (answer.resumeOptions == "Experience") {
+        } else if (answer.resumeOptions == "Experience 🧪") {
           var workName;
           var workArray;
           var workIndex;
