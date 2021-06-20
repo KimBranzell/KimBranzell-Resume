@@ -19,7 +19,7 @@ const resumeOptions = {
 function showResume() {
   console.log(" ");
   console.log(
-    "Welcome to the digital resume of Kim Branzell, currently a front-end developer at KAN, in Malmö, Sweden."
+    "Welcome to the digital resume of Kim Branzell, currently a full-stack developer at ID Kommunikation, in Malmö, Sweden."
   );
   console.log(" ");
   handleResume();
