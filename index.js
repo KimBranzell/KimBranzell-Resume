@@ -19,7 +19,7 @@ const resumeOptions = {
 function showResume() {
   console.log(" ");
   console.log(
-    "Welcome to the digital resume of Kim Branzell, currently a full-stack developer at ID Kommunikation, in Malmö, Sweden."
+    "Welcome to the digital resume of Kim Branzell, currently a back-end developer at Viva Media, in Malmö, Sweden."
   );
   console.log(" ");
   handleResume();
