@@ -22,18 +22,25 @@
   },
 
   "Experience 🧪": {
+    "Viva Media": [
+      {
+        "title": "Backend Developer"
+        "year": "2024-current"
+        "description": "As a backend developer in a cross-functional team of nine people, I have launched over ten custom websites and e-commerce platforms, where I have been responsible for implementing custom themes and features in PHP, WordPress and WooCommerce for clients such as Kalmar Slott, Bergkvara Buss and The National Golf & Resort."
+      }
+    ]
     "ID Kommunikation": [
       {
-        "title": "Front-end Developer",
-        "year": "2020-",
-        "description": "Responsible for creating websites and web apps. \n Working with brands such as: Rubin Medical, Simrishamnsbostäder, Nordsjö Idé och Design, AkzoNobel, etc."
+        "title": "Full-stack Developer",
+        "year": "2020-2024",
+        "description": "As a full-stack developer in a two-person team, I have launched over 20 custom websites and e-commerce solutions, where I have developed custom features and themes in PHP, WordPress and WooCommerce for clients such as Skånemejerier, Nordic Sugar and Skanska."
       }
     ],
     "KAN": [
       {
         "title": "Front-end Developer",
         "year": "2018-2020",
-        "description": "Responsible for creating websites and web apps. \n Working with brands such as: Subaru, Midroc, Isuzu, ZetaDisplay, Region Skåne, etc."
+        "description": "I led front-end projects with a focus on user-friendly and accessible solutions in PHP, HTML, CSS and JavaScript, where I transformed design ideas into visually appealing websites. By collaborating with developers and designers, I delivered quality projects on time, while constantly staying up-to-date on new technologies and improving my skills. \n Working with brands such as: Subaru, Midroc, Isuzu, ZetaDisplay, Region Skåne, etc."
       }
     ],
     "Nocnoc": [
@@ -52,6 +59,6 @@
     "Databases: MySQL, GraphQL",
     "Styling: (S)(C)(A)SS",
     "Webpack, Grunt, Gulp",
-    "The Adobe Suite (Photoshop & XD mostly)"
+    "The Adobe Suite (Photoshop & XD)"
   ]
 }
